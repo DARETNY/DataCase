@@ -14,4 +14,4 @@ This Python script uses pandas, matplotlib, and seaborn to visualize a cleaned d
  
 ## Screen Shoots
 
-![](<a href="https://ibb.co/s6jNFc9"><img src="https://i.ibb.co/s6jNFc9/myplot.png" alt="myplot" border="0"></a>)
+![]<a href="https://ibb.co/s6jNFc9"><img src="https://i.ibb.co/s6jNFc9/myplot.png" alt="myplot" border="0"></a>
