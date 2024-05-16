@@ -14,4 +14,5 @@ This Python script uses pandas, matplotlib, and seaborn to visualize a cleaned d
  
 ## Screen Shoots
 
-<a href="https://ibb.co/s6jNFc9"><img src="https://i.ibb.co/s6jNFc9/myplot.png" alt="myplot" border="0"></a>
+<a href="https://ibb.co/s6jNFc9"><img src="https://i.ibb.co/s6jNFc9/myplot.png" alt="myplot" border="0"></a>  
+<a href="https://ibb.co/H7wjG0s"><img src="https://i.ibb.co/H7wjG0s/Histogram2.png" alt="Histogram2" border="0"></a> <a href="https://ibb.co/rkczXRM"><img src="https://i.ibb.co/rkczXRM/Histogram3.png" alt="Histogram3" border="0"></a> <a href="https://ibb.co/wr68ZTb"><img src="https://i.ibb.co/wr68ZTb/Histogram4.png" alt="Histogram4" border="0"></a> <a href="https://ibb.co/6Ng92sB"><img src="https://i.ibb.co/6Ng92sB/Piechart-Virus.png" alt="Piechart-Virus" border="0"></a> <a href="https://ibb.co/j8hNF6M"><img src="https://i.ibb.co/j8hNF6M/Summarize.png" alt="Summarize" border="0"></a>
