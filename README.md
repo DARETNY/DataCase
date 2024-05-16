@@ -14,4 +14,4 @@ This Python script uses pandas, matplotlib, and seaborn to visualize a cleaned d
 
  
 ## Screen Shoots
-![](<blockquote class="imgur-embed-pub" lang="en" data-id="a/EMHInl8"  ><a href="//imgur.com/a/EMHInl8">Out VS In Catwoman Cosplay</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+
