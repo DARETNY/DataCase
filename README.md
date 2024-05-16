@@ -2,7 +2,6 @@
  
 
 ## Cleaned Dataset
-[Uploading README.md…]()
 
 This Python script uses pandas and numpy to clean a dataset. It first loads the dataset into a pandas DataFrame, then it selects the columns that are of type float64. It removes rows with missing values from the DataFrame and calculates the number of missing values in each float column. It then prints the number of missing values in each float column and the total number of missing values. Finally, it saves the cleaned data to a new CSV file.
 
@@ -15,3 +14,4 @@ This Python script uses pandas, matplotlib, and seaborn to visualize a cleaned d
  
 ## Screen Shoots
 
+![](https://ibb.co/s6jNFc9)
