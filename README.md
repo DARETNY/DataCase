@@ -55,7 +55,7 @@ After the Test:
   Accuracy: 0.8615384615384616
 
 ```
-By applying more advanced models and techniques, we were able to improve the performance of our virus detection model. The use of Random Forest and hyperparameter tuning significantly increased the accuracy and the AUC of the ROC curve.
+
 
 
 
