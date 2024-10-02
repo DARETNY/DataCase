@@ -16,7 +16,7 @@ y = data.iloc[:, -1]
 
 # Split the data into training and test sets
 # The test set size is 40% of the total data
-# The random state is set to 302 for reproducibility
+# The random state is set to 96 for reproducibility
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5, random_state=96)
 
 # Create a Logistic Regression model
